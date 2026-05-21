@@ -1,0 +1,4 @@
+# Verilog is main language
+*.v linguist-language=Verilog
+*.do linguist-vendored
+*.xdc linguist-vendored
