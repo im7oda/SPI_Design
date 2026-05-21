@@ -38,12 +38,3 @@ The FSM is implemented in three encodings (Gray, One-Hot, Sequential) and the be
 ```tcl
 vsim -do sim/run.do
 ```
-
----
-
-## Team
-
-| Name | ID |
-|------|----|
-|      |    |
-|      |    |
